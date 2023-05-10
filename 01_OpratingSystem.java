@@ -1,6 +1,6 @@
 package Homework2;
 
-public class Encapsulation {
+public class OpratingSystem {
 	
 	private String name;
 	private double price;
@@ -26,6 +26,9 @@ public class Encapsulation {
 	}
 	public void setSpeciallity(String speciallity) {
 		this.speciallity = speciallity;
-	}	
+	}
+	
+	
 
 }
+
